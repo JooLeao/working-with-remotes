@@ -1,1 +1,3 @@
-"Este é o arquivo master-03 da branch master."
+“Este é o arquivo master-03 da branch
+
+master.”
